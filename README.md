@@ -13,7 +13,9 @@ Date time functions
 CTEs
 
 INSIGHTS
+
 Some of the insights generated were:
+
 *Product M has the highest price.
 *John Doe, Jane Smith and Bob Johnson had the most orders.
 *Highest revenue was placed in 2023-05-16.
