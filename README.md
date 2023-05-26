@@ -17,6 +17,7 @@ CTEs
 INSIGHTS
 
 Some of the insights generated were :
+
 1.Product M has the highest price.
 
 2.John Doe, Jane Smith and Bob Johnson had the most orders.
