@@ -16,13 +16,13 @@ INSIGHTS
 
 Some of the insights generated were:
 
-*Product M has the highest price.
-*John Doe, Jane Smith and Bob Johnson had the most orders.
-*Highest revenue was placed in 2023-05-16.
-*John Doe, Jane Smith and Bob Johnson had ordered the most distinct
+1.Product M has the highest price.
+2.John Doe, Jane Smith and Bob Johnson had the most orders.
+3.Highest revenue was placed in 2023-05-16.
+4.John Doe, Jane Smith and Bob Johnson had ordered the most distinct
 products.
-*Median order total was $112.50 .
-*Ivy Jones and Sophia Thomas ordered the product with highest price
+5.Median order total was $112.50 .
+6.Ivy Jones and Sophia Thomas ordered the product with highest price
 
 Thankyou!
 
